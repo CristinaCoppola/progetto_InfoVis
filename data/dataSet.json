@@ -1,0 +1,64 @@
+[
+  [{
+    "altezzaTronco": 60,
+    "grandezzaChioma": 20,
+    "dimensioneFrutti": 5,
+    "grandezzaRadici":20
+  }],
+
+  [{
+    "altezzaTronco": 40,
+    "grandezzaChioma": 30,
+    "dimensioneFrutti": 4,
+    "grandezzaRadici":10
+  }],
+  [{
+    "altezzaTronco": 70,
+    "grandezzaChioma": 60,
+    "dimensioneFrutti": 8,
+    "grandezzaRadici":40
+  }],
+  [{
+    "altezzaTronco": 90,
+    "grandezzaChioma": 35,
+    "dimensioneFrutti": 3,
+    "grandezzaRadici":15
+  }],
+  [{
+    "altezzaTronco": 80,
+    "grandezzaChioma": 45,
+    "dimensioneFrutti": 9,
+    "grandezzaRadici":5
+  }],
+  [{
+    "altezzaTronco": 30,
+    "grandezzaChioma": 15,
+    "dimensioneFrutti": 1,
+    "grandezzaRadici":25
+  }],
+  [{
+    "altezzaTronco": 10,
+    "grandezzaChioma": 10,
+    "dimensioneFrutti": 2,
+    "grandezzaRadici":4
+  }],
+  [{
+    "altezzaTronco": 100,
+    "grandezzaChioma":65,
+    "dimensioneFrutti": 7,
+    "grandezzaRadici":60
+  }],
+  [{
+    "altezzaTronco": 20,
+    "grandezzaChioma": 25,
+    "dimensioneFrutti": 6,
+    "grandezzaRadici":30
+  }],
+  [{
+    "altezzaTronco": 120,
+    "grandezzaChioma": 50,
+    "dimensioneFrutti": 10,
+    "grandezzaRadici":55
+  }]
+
+]
